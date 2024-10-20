@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swiggy-clone/static/css/main.e370fbaf.css",
+    "main.js": "/swiggy-clone/static/js/main.d5dc61aa.js",
+    "index.html": "/swiggy-clone/index.html",
+    "main.e370fbaf.css.map": "/swiggy-clone/static/css/main.e370fbaf.css.map",
+    "main.d5dc61aa.js.map": "/swiggy-clone/static/js/main.d5dc61aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e370fbaf.css",
+    "static/js/main.d5dc61aa.js"
+  ]
+}
